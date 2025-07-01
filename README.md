@@ -577,7 +577,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you found it helpful!**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/gender-face-recognition&type=Date)](https://star-history.com/#yourusername/gender-face-recognition&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/gender-face-recognition&type=Date)](https://star-history.com/alok-devforge/gender-face-recognition&Date)
 
 </div>
 
